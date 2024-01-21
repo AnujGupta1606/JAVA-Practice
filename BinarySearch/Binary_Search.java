@@ -1,5 +1,7 @@
+package BinarySearch;
 
-public class Binary_Search{
+public class Binary_Search {
+    
 public static void main(String[] args) {
 // Binary Seach majorly work in Sorted array
 // Sorted
@@ -40,3 +42,4 @@ static int  binarySearch(int [] arr, int target){
 
 }
 }
+
